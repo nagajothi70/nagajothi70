@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nagajothi8423@gmail.com
 - 😄 My mini Projects:
 - ⚡ All of my projects are available at :
-_ 📄 Know about me at:
-
+- 📄 Know about me at:
+  
 
 
 ### 📞 Connect with Me:  

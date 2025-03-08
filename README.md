@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### 📞 Connect with Me:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagajothi70)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nagajothi70/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nagajothi70](https://www.linkedin.com/in/naga-jothi-538060275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/nagajothi70/](https://www.instagram.com/nagajothi70?igsh=cGM4dWMyMXVwYWFx))
 
 ## Languages and Tools:
 

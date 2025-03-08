@@ -62,4 +62,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+### 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagajothi70&layout=compact&theme=radical)
+
+
+### 📈 Nagajothi's GitHub Stats:
+![Nagajothi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagajothi70&show_icons=true&theme=radical&count_private=true)
+
+
+### 🔥 GitHub Streak:  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nagajothi70&theme=radical)](https://git.io/streak-stats)
 

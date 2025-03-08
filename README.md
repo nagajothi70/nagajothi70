@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**nagajothi70/nagajothi70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+                                                   My Name is NAGAJOTHI TR
 
 - 🔭 I’m currently working on Mern Stack Project(reserved all rights)
 - 🌱 I’m currently learning Full-Stack Development 

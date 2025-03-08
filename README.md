@@ -53,9 +53,7 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.atlassian.com/agile" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/agile.png" alt="Agile" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>

@@ -12,10 +12,20 @@
   
 
 
-### 📞 Connect with Me:  
+### 📞 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nagajothi70](https://www.linkedin.com/in/naga-jothi-538060275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/nagajothi70/](https://www.instagram.com/nagajothi70?igsh=cGM4dWMyMXVwYWFx))
+<a href="https://www.linkedin.com/in/naga-jothi-538060275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/nagajothi70?igsh=cGM4dWMyMXVwYWFx" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://leetcode.com/nagajothi70/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
 
 ## Languages and Tools:
 

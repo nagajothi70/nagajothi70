@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on full-Stack Project(reserved all rights)
 - 🌱 Full Stack Developer | Cloud & DevOps Enthusiast
 - 📫 How to reach me: nagajothi8423@gmail.com
-- 😄 My mini Projects:
+- 😄 My mini Projects:https://github.com/nagajothi70/my-mini-projects/tree/main
 - ⚡ All of my projects are available at :
 - 📄 Know about me at:
   

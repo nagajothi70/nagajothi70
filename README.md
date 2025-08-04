@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-
-                                                   My Name is NAGAJOTHI TR
+<p align="center">
+  <b>I'm Nagajothi</b>
+</p>
+                
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+and+DevOps+Enthusiast;MERN+stack+learner" alt="Typing SVG" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on full-Stack Project(reserved all rights)
 - 🌱 Full Stack Developer | Cloud & DevOps Enthusiast

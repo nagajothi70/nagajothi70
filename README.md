@@ -65,6 +65,10 @@
   <a href="https://www.linux.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
+<a href="https://dev.to/your_username" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="Dev.to" width="40" height="40"/>
+</a>
+
 
 </p>
 

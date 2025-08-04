@@ -3,9 +3,8 @@
 
                                                    My Name is NAGAJOTHI TR
 
-- 🔭 I’m currently working on Mern Stack Project(reserved all rights)
-- 🌱 I’m currently learning Full-Stack Development 
-- 💬 Ask me about Mern and Full Stack Development
+- 🔭 I’m currently working on full-Stack Project(reserved all rights)
+- 🌱 Full Stack Developer | Cloud & DevOps Enthusiast
 - 📫 How to reach me: nagajothi8423@gmail.com
 - 😄 My mini Projects:
 - ⚡ All of my projects are available at :
@@ -63,6 +62,10 @@
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
+  <a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+
 </p>
 
 ### 📊 Most Used Languages:

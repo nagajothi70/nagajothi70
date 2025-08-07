@@ -17,7 +17,7 @@
 - ⚡ All of my projects are available at :https://github.com/nagajothi70/my-projects
 - 📄 Know about me at:
 - 😄 look my resume at : https://github.com/nagajothi70/my-resume
-- 🔭 view my certifications at :
+- 🔭 view my certifications at : https://github.com/nagajothi70/certificates
   
 
 

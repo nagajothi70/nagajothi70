@@ -36,41 +36,32 @@
 
 <p align="left">
 
-  <a href="https://developer.android.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
+  <b>Android</b> &nbsp;&nbsp;
 
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <b>Kotlin</b> &nbsp;&nbsp;
 
-  <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/695951?s=200&v=4" alt="Jetpack Compose" width="40" height="40"/>
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/695951?s=200&v=4" width="40" height="40"/>
+  <b>Jetpack Compose</b> &nbsp;&nbsp;
 
-  <a href="https://developer.android.com/topic/libraries/architecture/viewmodel" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="MVVM" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
+  <b>MVVM Architecture</b> &nbsp;&nbsp;
 
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <b>Firebase</b> &nbsp;&nbsp;
 
-  <a href="https://developer.android.com/training/data-storage/room" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="Room DB" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <b>Room Database</b> &nbsp;&nbsp;
 
-  <a href="https://square.github.io/retrofit/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Retrofit" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <b>Retrofit / REST API</b> &nbsp;&nbsp;
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+  <b>Git & GitHub</b> &nbsp;&nbsp;
 
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <b>Linux</b>
 
 </p>
 

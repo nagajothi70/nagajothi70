@@ -84,8 +84,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagajothi70&layout=compact&theme=radical)
 
 
-### 📈 Nagajothi's GitHub Stats:
-![Nagajothi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagajothi70&show_icons=true&theme=radical&count_private=true)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
 
 
 ### 🔥 GitHub Streak:  

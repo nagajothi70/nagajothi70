@@ -81,9 +81,3 @@
 
 ### 🔥 GitHub Streak:  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nagajothi70&theme=radical)](https://git.io/streak-stats)
-
-<h3>📊 Most Used Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagajothi70&layout=compact" />
-
-<h3>📊 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=nagajothi70&show_icons=true" />

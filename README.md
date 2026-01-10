@@ -6,12 +6,12 @@
                 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+and+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Android+App+Developer;JetPack+Compose;REST+API+Version+Control" alt="Typing SVG" />
   </a>
 </p>
 
-- 🔭 I’m currently working on full-Stack Project(reserved all rights)
-- 🌱 Full Stack Developer | Cloud & DevOps Enthusiast
+- 🔭 I’m currently working as Android App Developer
+- 🌱 Android App Developer | REST API | KOTLIN | JETPACK COMPOSE | MVVM | COROUTINES
 - 📫 How to reach me: nagajothi8423@gmail.com
 - 😄 My mini Projects:https://github.com/nagajothi70/my-mini-projects/tree/main
 - ⚡ All of my projects are available at :https://github.com/nagajothi70/my-projects
